@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Unblocked Games</title>
+  <style>
+    body {
+      background: black;
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+    }
+    iframe {
+      border: none;
+      width: 90%;
+      height: 500px;
+      box-shadow: 0 0 30px blue, 0 0 30px purple;
+      border-radius: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔥 My Unblocked Games 🔥</h1>
+  <p>Enjoy free games below</p>
+
+  <iframe src="run3.html"></iframe> <!-- Replace with your game -->
+
+  <!-- Optional: Paste ad script below -->
+</body>
+</html>
